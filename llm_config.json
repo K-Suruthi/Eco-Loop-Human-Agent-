@@ -1,0 +1,5 @@
+{
+  "provider": "ollama",
+  "model": "llama3",
+  "ollama_host": "http://localhost:11434"
+}
