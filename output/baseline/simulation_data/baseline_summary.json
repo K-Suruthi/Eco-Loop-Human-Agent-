@@ -1,0 +1,11 @@
+{
+  "total_hvac_energy_kwh": 43625.102560621744,
+  "avg_zone_temp": 21.381662677513063,
+  "max_zone_temp": 27.41096351203415,
+  "min_zone_temp": 16.698431365339697,
+  "avg_outdoor_temp": 9.491787079914687,
+  "total_fan_energy_kwh": 15003.700152947564,
+  "total_chiller_energy_kwh": 25025.131058349718,
+  "total_pump_energy_kwh": 3596.2713493244646,
+  "num_data_points": 52043
+}
